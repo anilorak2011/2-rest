@@ -8,8 +8,8 @@ h1 {
 }
 nav {
      margin:10 px 0 px;
-     text-align:center;
-     background-color: blueviolet;
+     text-align: center;
+     background-color: blue-violet;
 }
 nav a {
      text-decoration: none;
@@ -17,7 +17,7 @@ nav a {
      color: black;
 }
 main  {
-    background-color: lightgreen;
+    background-color: light green;
 } 
     header p{
     background-color: plum;
